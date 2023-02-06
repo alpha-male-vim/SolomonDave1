@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @SolomonDave1
-- 👀 I’m interested in Android | Flutter
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning Programing in C and using the emacs editor environment
 - 📫 How to reach me ...
 
-<!---
-SolomonDave1/SolomonDave1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
